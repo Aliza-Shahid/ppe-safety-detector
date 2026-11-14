@@ -1,0 +1,21 @@
+﻿# secrets
+.env
+
+# environments
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# data and weights (link to them in README instead)
+data/
+models/
+outputs/
+*.pt
+*.onnx
+*.mp4
+*.avi
+runs/
+
+# db
+*.db
+*.sqlite
